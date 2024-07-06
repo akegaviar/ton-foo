@@ -1,1 +1,8 @@
-https://github.com/beartrice/yolo/issues/49
+https://github.com/ton-blockchain/ton/issues/1041
+https://github.com/ton-blockchain/ton/issues/1039
+https://github.com/ton-blockchain/ton/issues/1038
+https://github.com/ton-blockchain/ton/issues/1009
+https://github.com/ton-blockchain/ton/issues/1006
+https://github.com/ton-blockchain/ton/issues/983
+https://github.com/ton-blockchain/ton/issues/948
+https://github.com/ton-blockchain/ton/issues/947
